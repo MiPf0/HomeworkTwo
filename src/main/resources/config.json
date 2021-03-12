@@ -1,0 +1,50 @@
+{
+  "cameras": {
+    "cam1": {
+      "name": "Sony Alpha 7R IV",
+      "colour": "black",
+      "hasLivePicture": true
+    },
+    "cam2": {
+      "name": "Panasonic Lumix S1R",
+      "colour": "light grey",
+      "hasLivePicture": false
+    },
+    "cam3": {
+      "name": "Canon EOS 6D",
+      "colour": "beige",
+      "hasLivePicture": true
+    }
+  },
+  "lenses": {
+    "lens1": {
+      "manufacturer": "Tamron",
+      "aperture": 2.1
+    },
+    "lens2": {
+      "manufacturer": "Canon",
+      "aperture": 4.5
+    },
+    "lens3": {
+      "manufacturer": "Fotga",
+      "aperture": 12
+    }
+  },
+  "motives": {
+    "motif1": {
+      "type": "night outside",
+      "aperture": 2.1,
+      "exposureTime": 2.4
+    },
+    "motif2": {
+      "type": "portrait",
+      "aperture": 5,
+      "exposureTime": 0.56
+    },
+    "motif3": {
+      "type": "landscape",
+      "aperture": 1,
+      "exposureTime": 0.11
+    }
+  }
+}
